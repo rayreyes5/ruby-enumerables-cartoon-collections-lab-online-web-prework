@@ -24,5 +24,7 @@ def find_the_cheese# code an argument here
 find_the_cheese(snacks)
 #=> "gouda"
 
-
+soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+find_the_cheese(soup)
+#=> "cheddar"
 end
